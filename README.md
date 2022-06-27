@@ -2,6 +2,8 @@
 Minimal 2D ROS navigation system including custom OG mapping and motion planning systems. 
 This package can navigate a robot from point A to B without hitting obstacles.
 
+Watch [demo](https://www.youtube.com/watch?v=UGfTxcI47rI&list=PLFcVgs9SAZn24gF2VCl5zmnnEZ0ZZHbgb&index=3)
+
 ## Features
 
 Custom 2D Occupancy Grid Mapping
