@@ -1,5 +1,5 @@
 # RobotNav
-Minimal 2D ROS navigation stack including custom OG mapping and motion planning systems. 
+Minimal 2D ROS navigation system including custom OG mapping and motion planning systems. 
 This package can navigate a robot from point A to B without hitting obstacles.
 
 ## Features
