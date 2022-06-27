@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+
+<launch>
+	<include file="$(find RobotNav)/launch/mapping.launch" />
+	<node name="motion-planning" output="screen" type="scripts/motion-planning.py">
+	<node name="path_follower"  output="screen" type="scripts/path_follower.py">
+</launch>
