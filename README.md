@@ -20,4 +20,4 @@ Output is given as Twist message
 
 ## Limitations
 - Localization is not included and must be provided externally
-- Control algorithm is based on rotation around robots central z-axis
+- Control algorithm assumes robot rotation is based around robots central z-axis
